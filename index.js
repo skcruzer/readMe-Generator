@@ -2,7 +2,7 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
 
-// questions pertaining to building your readME
+// questions for user to build readME
 const questions = [
   {
     type: 'input',
@@ -56,13 +56,41 @@ const questions = [
   inquirer.prompt(questions)
   .then(answers => {
     console.log(answers)
+    let readMeElem = `
+<img src='https://img.shields.io/badge/License-${answers.license}-yellow.svg'>
+
+<h1> ${answers.title} </h1>
+<h2> ${answers.description} </h2>
+<h2> Table of Contents </h2>
+<details open='open'>
+<summary>Table of Contents</summary>
+<ol>
+<li><a href='#installation'>Installation</a></li>
+<li><a href='#usage'>Usage</a></li>
+<li><a href='#contribution'>Contribution</a></li>
+<li><a href='#tests'>Tests</a></li>
+<li><a href='#questions'>Questions</a></li>
+</details>
+
+<h3 id='installation'>Installation</h3>
+<p> ${answers.installation} </p>
+
+<h3 id='usage'>Usage</h3>
+<p> ${answers.usage} </p>
+
+<h3 id='contributing'>Contributing</h3>
+<p> ${answers.contributing} </p>
+
+<h3 id='testing'>Tests</h3>
+<p> ${answers.testing} </p>
+
+<h3 id='questions'>Questions</h3>
+<p>Have questions? Please feel free to reach out to me on github at ${answers.username} or by email at ${answers.email} </p>
+    `
+
+    // function to write new ReadME file
+    fs.writeFile('newReadMe.md', readMeElem, err => console.log(err))
   })
-
-
-// // array of questions for user
-// const questions = [
-
-// ];
 
 // // function to write README file
 // function writeToFile(fileName, data) {
