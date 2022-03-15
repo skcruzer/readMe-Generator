@@ -25,9 +25,10 @@
 <img src='./utils/readMeSS4.png' alt='image of index.js' width='300px'>
 <img src='./utils/readMeSS1.png' alt='image of index.js' width='300px'>
 </p>
-<img src='./utils/readMeSS2.png' alt='image of index.js' width='280px'>
-<img src='./utils/readMeSS3.png' alt='image of index.js' width='280px'>
-
+<p>
+<img src='./utils/readMeSS2.png' alt='image of index.js' width='290px'>
+<img src='./utils/readMeSS3.png' alt='image of index.js' width='290px'>
+</p>
 
 <h3 id='contributing'>Contributing</h3>
 <p> This project is complete. If you have any questions or anything to add, please contact me. You will find my contact information below. </p>
