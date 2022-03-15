@@ -20,7 +20,7 @@
 
 <h3 id='usage'>Usage</h3>
 <p> After cloning this repo to your device, run the command 'node index.js'. </p>
-![Alt Text](./readMeGeneratorDemo.gif)
+![Alt text](./utils/readMeGeneratorDemo.gif)
 
 <h3 id='contributing'>Contributing</h3>
 <p> This project is complete. If you have any questions or anything to add, please contact me. You will find my contact information below. </p>
