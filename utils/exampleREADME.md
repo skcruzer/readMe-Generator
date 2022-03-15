@@ -3,6 +3,7 @@
 
 <h1> Title </h1>
 <h2> Description </h2>
+<p> Description </p>
 <h2> Table of Contents </h2>
 <details open='open'>
 <summary>Table of Contents</summary>

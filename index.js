@@ -92,15 +92,4 @@ const questions = [
     // function to write new ReadME file
     fs.writeFile('newReadMe.md', readMeElem, err => console.log(err))
   })
-
-// // function to write README file
-// function writeToFile(fileName, data) {
-// }
-
-// // function to initialize program
-// function init() {
-
-// }
-
-// // function call to initialize program
-// init();
+  .catch(err => console.log(err))
