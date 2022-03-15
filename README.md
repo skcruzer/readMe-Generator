@@ -22,11 +22,11 @@
 <p> After cloning this repo to your device, run the command 'node index.js'. </p>
 <p><img src='./utils/readMeGeneratorDemo.gif' alt='readMe Generator gif'></p>
 <p>
-<img src='./utils/readMeSS4.png' alt='image of index.js' width='400px'>
-<img src='./utils/readMeSS1.png' alt='image of index.js' width='400px'>
+<img src='./utils/readMeSS4.png' alt='image of index.js' width='300px'>
+<img src='./utils/readMeSS1.png' alt='image of index.js' width='300px'>
 </p>
-<img src='./utils/readMeSS2.png' alt='image of index.js' width='400px'>
-<img src='./utils/readMeSS3.png' alt='image of index.js' width='400px'>
+<img src='./utils/readMeSS2.png' alt='image of index.js' width='300px'>
+<img src='./utils/readMeSS3.png' alt='image of index.js' width='300px'>
 
 
 <h3 id='contributing'>Contributing</h3>
