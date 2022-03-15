@@ -25,8 +25,8 @@
 <img src='./utils/readMeSS4.png' alt='image of index.js' width='300px'>
 <img src='./utils/readMeSS1.png' alt='image of index.js' width='300px'>
 </p>
-<img src='./utils/readMeSS2.png' alt='image of index.js' width='290px'>
-<img src='./utils/readMeSS3.png' alt='image of index.js' width='290px'>
+<img src='./utils/readMeSS2.png' alt='image of index.js' width='280px'>
+<img src='./utils/readMeSS3.png' alt='image of index.js' width='280px'>
 
 
 <h3 id='contributing'>Contributing</h3>
