@@ -38,4 +38,6 @@
 
 <h3 id='questions'>Questions</h3>
 <p>Have questions? Please feel free to reach out to me on github at skcruzer or by email at seankennethcruz@gmail.com </p>
-    
+
+- - -
+© Skcruzer 2022
