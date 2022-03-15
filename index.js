@@ -60,7 +60,8 @@ const questions = [
 <img src='https://img.shields.io/badge/License-${answers.license}-yellow.svg'>
 
 <h1> ${answers.title} </h1>
-<h2> ${answers.description} </h2>
+<h2> Description </h2>
+<p> ${answers.description} </p>
 <h2> Table of Contents </h2>
 <details open='open'>
 <summary>Table of Contents</summary>
