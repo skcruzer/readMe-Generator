@@ -30,14 +30,14 @@
 <img src='./utils/readMeSS3.png' alt='image of index.js' width='290px'>
 </p>
 
-<h3 id='contributing'>Contributing</h3>
+## <h3 id='contributing'>Contributing</h3>
 <p> This project is complete. If you have any questions or anything to add, please contact me. You will find my contact information below. </p>
 
-<h3 id='testing'>Tests</h3>
+## <h3 id='testing'>Tests</h3>
 <p> Testing is not required for this project.  </p>
 
-<h3 id='questions'>Questions</h3>
+## <h3 id='questions'>Questions</h3>
 <p>Have questions? Please feel free to reach out to me on github at skcruzer or by email at seankennethcruz@gmail.com </p>
 
 - - -
-© Skcruzer 2022
+© 2022 Skcruzer, Inc. All Rights Reserved.
