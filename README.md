@@ -15,10 +15,10 @@
 <li><a href='#questions'>Questions</a></li>
 </details>
 
-<h3 id='installation'>Installation</h3>
+## <h3 id='installation'>Installation</h3>
 <p> Clone this repo to your device and run the command 'node index.js' in your terminal. </p>
 
-<h3 id='usage'>Usage</h3>
+## <h3 id='usage'>Usage</h3>
 <p> After cloning this repo to your device, run the command 'node index.js'. </p>
 <p><img src='./utils/readMeGeneratorDemo.gif' alt='readMe Generator gif'></p>
 <p>
