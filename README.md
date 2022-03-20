@@ -16,10 +16,10 @@
 </details>
 
 ## <h3 id='installation'>Installation</h3>
-<p> Clone this repo to your device and run the command 'node index.js' in your terminal. </p>
+<p> Clone this repo to your device and run the command <code>node index.js</code> in your terminal. </p>
 
 ## <h3 id='usage'>Usage</h3>
-<p> After cloning this repo to your device, run the command 'node index.js'. </p>
+<p> After cloning this repo to your device, run the command <code>node index.js</code>. </p>
 <p>Youtube Link: <a href='https://youtu.be/gcb6_WqP-iI'target='_blank'>README Generator Walkthrough</a></p>
 <p><img src='./utils/readMeGeneratorDemo.gif' alt='readMe Generator gif'></p>
 <p>
