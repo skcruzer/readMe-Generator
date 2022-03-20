@@ -3,7 +3,7 @@
 
 <h1> readME Generator </h1>
 <h2> Description </h2>
-<p> This application uses node.js to take a user's input and generate them a README file. </p>
+<p> This application uses <code>node.js</code> to take a user's input and generate them a README file. </p>
 <h2> Table of Contents </h2>
 <details open='open'>
 <summary>Table of Contents</summary>
