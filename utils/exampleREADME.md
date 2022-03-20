@@ -10,7 +10,7 @@
 <ol>
 <li><a href='#installation'>Installation</a></li>
 <li><a href='#usage'>Usage</a></li>
-<li><a href='#contributing'>Contributing</a></li>
+<li><a href='#contribution'>Contributing</a></li>
 <li><a href='#testing'>Tests</a></li>
 <li><a href='#questions'>Questions</a></li>
 </details>
@@ -21,7 +21,7 @@
 <h3 id='usage'>Usage</h3>
 <p>Usage</p>
 
-<h3 id='contributing'>Contributing</h3>
+<h3 id='contribution'>Contributing</h3>
 <p>Contributing</p>
 
 <h3 id='testing'>Tests</h3>

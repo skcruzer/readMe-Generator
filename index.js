@@ -79,7 +79,7 @@ const questions = [
 ## <h3 id='usage'>Usage</h3>
 <p> ${answers.usage} </p>
 
-## <h3 id='contributing'>Contributing</h3>
+## <h3 id='contribution'>Contributing</h3>
 <p> ${answers.contributing} </p>
 
 ## <h3 id='testing'>Tests</h3>
