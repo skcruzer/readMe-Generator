@@ -73,19 +73,19 @@ const questions = [
 <li><a href='#questions'>Questions</a></li>
 </details>
 
-<h3 id='installation'>Installation</h3>
+## <h3 id='installation'>Installation</h3>
 <p> ${answers.installation} </p>
 
-<h3 id='usage'>Usage</h3>
+## <h3 id='usage'>Usage</h3>
 <p> ${answers.usage} </p>
 
-<h3 id='contributing'>Contributing</h3>
+## <h3 id='contributing'>Contributing</h3>
 <p> ${answers.contributing} </p>
 
-<h3 id='testing'>Tests</h3>
+## <h3 id='testing'>Tests</h3>
 <p> ${answers.testing} </p>
 
-<h3 id='questions'>Questions</h3>
+## <h3 id='questions'>Questions</h3>
 <p>Have questions? Please feel free to reach out to me on github at ${answers.username} or by email at ${answers.email} </p>
     `
 
