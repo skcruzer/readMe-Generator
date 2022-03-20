@@ -20,7 +20,7 @@
 
 ## <h3 id='usage'>Usage</h3>
 <p> After cloning this repo to your device, run the command 'node index.js'. </p>
-<p>Youtube Link: <a href='https://youtu.be/gcb6_WqP-iI'>README Generator Walkthrough</p>
+<p>Youtube Link: <a href='https://youtu.be/gcb6_WqP-iI'target='_blank'>README Generator Walkthrough</a></p>
 <p><img src='./utils/readMeGeneratorDemo.gif' alt='readMe Generator gif'></p>
 <p>
 <img src='./utils/readMeSS4.png' alt='image of index.js' width='300px'>
@@ -38,7 +38,7 @@
 <p> Testing is not required for this project.  </p>
 
 ## <h3 id='questions'>Questions</h3>
-<p>Have questions? Please feel free to reach out to me on github at skcruzer or by email at seankennethcruz@gmail.com </p>
+<p>Have questions? Please feel free to reach out to me on github at <a href='https://github.com/skcruzer'target='_blank'>skcruzer </a> or by email at <a href='mailto:seankennethcruz@gmail.com'target='_blank'>seankennethcruz@gmail.com</a>.</p>
 
 - - -
 © 2022 Skcruzer, Inc. All Rights Reserved.
