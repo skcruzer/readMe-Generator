@@ -20,6 +20,7 @@
 
 ## <h3 id='usage'>Usage</h3>
 <p> After cloning this repo to your device, run the command 'node index.js'. </p>
+<p>Youtube Link: <a href='https://youtu.be/gcb6_WqP-iI'>README Generator Walkthrough</p>
 <p><img src='./utils/readMeGeneratorDemo.gif' alt='readMe Generator gif'></p>
 <p>
 <img src='./utils/readMeSS4.png' alt='image of index.js' width='300px'>
